@@ -1,2 +1,2 @@
-# ml_template
-Template for building ML models
+# Template for building ML models
+
